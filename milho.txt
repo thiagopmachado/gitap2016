@@ -2,4 +2,5 @@
 
 Milho é uma cultura de verão, e é possível plantar milho após a soja, configurando 'Safrinha'.
 Posso plantar milho convencional ou pipoca.
+Além da finalidade do milho, posso ter milho convencional ou transgenico
 
